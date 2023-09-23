@@ -37,7 +37,6 @@ I am now a master student in Renmin University of China, under the supervision o
 		</ul>
 	</div>
 </div>
-
 <style>
 .conference{
     color: #fff;
@@ -50,8 +49,8 @@ I am now a master student in Renmin University of China, under the supervision o
     font-size:13px;
 }
 </style>
-  
-  
+<br/><br/><br/><br/>
+
 Publication
 ======
 <div>
