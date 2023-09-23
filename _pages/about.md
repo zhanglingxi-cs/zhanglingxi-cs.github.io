@@ -10,6 +10,35 @@ redirect_from:
 
 I am now a master student in Renmin University of China, under the supervision of associate professor [Jing Zhang](https://xiaojingzi.github.io/). My research interest falls in data mining and natural language processing. And my current research focuses on large language models and knowledge engineering.
 
+<div class="row">
+	<div class="col-md-5">
+		<div class="section-subheading">Interests</div>
+		<ul class="ul-interests mb-0">
+			<li>AI4DB &amp; AI4System</li>
+			<li>Query Optimization</li>
+			<li>Time Series Forecasting</li>
+		</ul>
+	</div><div class="col-md-7">
+		<div class="section-subheading">Education</div>
+		<ul class="ul-edu fa-ul mb-0">
+			<li>
+				<i class="fa-li fas fa-graduation-cap"></i>
+				<div class="description">
+					<p class="course">Master &amp; PhD in Computer Science, 2017-2023</p>
+					<p class="institution">Renmin University of China</p>
+				</div>
+			</li>
+			<li>
+				<i class="fa-li fas fa-graduation-cap"></i>
+				<div class="description">
+					<p class="course">BSc in Computer Science, 2013-2017</p>
+					<p class="institution">Xi'an Jiaotong University</p>
+				</div>
+			</li>
+		</ul>
+	</div>
+</div>
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
