@@ -116,16 +116,16 @@ Award
 ======
 <div>
 	<ul>
-		<li style="font-size:0.8em;margin:0rem;"><strong>First Prize Scholarship</strong>, Renmin Univ. of China, 2023.</li>
-		<li style="font-size:0.8em;margin:0rem;"><strong>National First Prize</strong>, Contemporary Undergraduate Mathematical Contest in Modeling, 2020.</li>
-		<li><p style="font-size:0.8em;margin:0rem;"><strong>Bronze Medal</strong>, The ICPC Asia-East Continent Final, Xi'an Site, 2020.</p></li>
-		<li><p style="font-size:0.8em;margin:0rem;"><strong>Best All-Girl Team</strong> The ICPC Regional Contest, Nanjing Site, 2019.</p></li>
+		<li style="font-size:0.87em;margin:0rem;"><strong>First Prize Scholarship</strong>, Renmin Univ. of China, 2023.</li>
+		<li style="font-size:0.87em;margin:0rem;"><strong>National First Prize</strong>, Contemporary Undergraduate Mathematical Contest in Modeling, 2020.</li>
+		<li><p style="font-size:0.87em;margin:0rem;"><strong>Bronze Medal</strong>, The ICPC Asia-East Continent Final, Xi'an Site, 2020.</p></li>
+		<li><p style="font-size:0.87em;margin:0rem;"><strong>Best All-Girl Team</strong> The ICPC Regional Contest, Nanjing Site, 2019.</p></li>
 	</ul>
 </div>
 
 Experience
 ====
-<div style="font-size:0.8em;">
+<div style="font-size:0.87em;">
 	<ul>
 	  <li>
 	    <strong>Visiting Graduate Student, GaTech</strong>
