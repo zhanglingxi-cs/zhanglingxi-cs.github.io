@@ -38,35 +38,41 @@ I am now a master student in Renmin University of China, under the supervision o
 		</ul>
 	</div>
 </div>
-
-
-<div class="row" id="pub">
-    <div class="col-md-10">
-        <h4>Publication </h4>
-        <h5>Preprint</h5>
-        <ul>
-            <li>
-                <p><strong>Large Language Models are Zero-Shot Rankers for Recommender Systems.</strong>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
-                <p><strong>Yupeng Hou†</strong>, Junjie Zhang†, Zihan Lin, Hongyu Lu, Ruobing Xie, Julian McAuley, Wayne Xin Zhao.</p>
-                <p>
-                  <i>preprint, arxiv:2305.08845</i>.
-                  <br>
-              	</p>
-            </li>
-        </ul>
-        <h5>2023</h5>
-        <ul>
-            <li>
-                <p><strong>Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders.</strong></p>
-                <p><strong>Yupeng Hou</strong>, Zhankui He, Julian McAuley, Wayne Xin Zhao.</p>
-                <p>
-                  <span>TheWebConf (WWW) 2023</span>
-                  [<a href="https://arxiv.org/pdf/2210.12316" target="_blank">paper</a>]
-                  [<a href="https://github.com/RUCAIBox/VQ-Rec" target="_blank">code</a>]
-                  [<a href="#" data-toggle="collapse" data-target="#hou2022vqrec">bib</a>]
-                    <br>
-                </p>
-            </li>
-        </ul>
-    </div>
+<br>
+<div>
+.span{
+    color: #fff;
+    background-color:rgba(48, 125, 246, 0.75);
+    border-radius: 0.125rem;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.06), 0 2px 10px 0 rgba(0,0,0,0.06);
+    padding: 0.05em 0.2em;
+    margin-right: 5px;
+}
+<h2>Publication</h2>
+<h3>Preprint</h3>
+<ul>
+    <li>
+        <p style="font-size:15px;margin:0rem;"><strong>Large Language Models are Zero-Shot Rankers for Recommender Systems.</strong>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
+        <p style="font-size:15px;margin:0rem;"><strong>Yupeng Hou†</strong>, Junjie Zhang†, Zihan Lin, Hongyu Lu, Ruobing Xie, Julian McAuley, Wayne Xin Zhao.</p>
+        <p style="font-size:10px;color:rgba(0,0,0,.6)">
+          <i>This paper writes Large Language Models are Zero-Shot Rankers for Recommender Systems.</i>.
+          <br>
+      	</p>
+    </li>
+</ul>
+<h5>2023</h5>
+<ul>
+    <li>
+        <p><strong>Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders.</strong></p>
+        <p><strong>Yupeng Hou</strong>, Zhankui He, Julian McAuley, Wayne Xin Zhao.</p>
+        <p>
+          <div class="span">TheWebConf (WWW) 2023</div>
+          [<a href="https://arxiv.org/pdf/2210.12316" target="_blank">paper</a>]
+          [<a href="https://github.com/RUCAIBox/VQ-Rec" target="_blank">code</a>]
+          [<a href="#" data-toggle="collapse" data-target="#hou2022vqrec">bib</a>]
+            <br>
+        </p>
+    </li>
+</ul>
 </div>
+
