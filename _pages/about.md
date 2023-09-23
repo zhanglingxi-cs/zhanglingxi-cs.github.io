@@ -11,14 +11,14 @@ I am now a master student in Renmin University of China, under the supervision o
 
 <div style="height:130px">
 	<div style="width:50%;float:left;">
-		<h3>Interests</h3>
+		<h3 style="margin:0rem;">Interests</h3>
 		<ul>
 			<li style="font-size:1em;">Knowledge Base Reasoning</li>
 			<li style="font-size:1em;">Argument Large Language Model</li>
 			<li style="font-size:1em;">Natural language processing</li>
 		</ul>
 	</div><div style="width:50%;float:right;">
-		<h3>Education</h3>
+		<h3 style="margin:0rem;">Education</h3>
 		<ul>
 			<li>
 				<i class="fa-li fas fa-graduation-cap"></i>
@@ -90,9 +90,9 @@ Award
 ======
 <div>
 	<ul>
-		<li style="font-size:1em;"><strong>First Prize Scholarship</strong>, Renmin Univ. of China, 2023.</li>
-		<li style="font-size:1em;"><strong>National First Prize</strong>, Contemporary Undergraduate Mathematical Contest in Modeling, 2020.</li>
-		<li style="font-size:15px;"><strong>Bronze Medal</strong>, The ICPC Asia-East Continent Final, Xi'an Site, 2020.</li>
-		<li style="font-size:15px;"><strong>Best All-Girl Team</strong> The ICPC Regional Contest, Nanjing Site, 2019.</li>
+		<li style="font-size:0.95em;"><strong style="font-size:1em;">First Prize Scholarship</strong>, Renmin Univ. of China, 2023.</li>
+		<li style="font-size:0.95em;"><strong style="font-size:1em;">National First Prize</strong>, Contemporary Undergraduate Mathematical Contest in Modeling, 2020.</li>
+		<li style="font-size:15px;"><strong style="font-size:1em;">Bronze Medal</strong>, The ICPC Asia-East Continent Final, Xi'an Site, 2020.</li>
+		<li style="font-size:15px;"><strong style="font-size:1em;">Best All-Girl Team</strong> The ICPC Regional Contest, Nanjing Site, 2019.</li>
 	</ul>
 </div>
