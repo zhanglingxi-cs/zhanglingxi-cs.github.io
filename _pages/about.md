@@ -18,7 +18,7 @@ I am now a master student in Renmin University of China, under the supervision o
 			<li style="font-size:15px;">Argument Large Language Model</li>
 			<li style="font-size:15px;">Natural language processing</li>
 		</ul>
-	</div><div class="col-md-3">
+	</div><div class="col-md-1">
 		<div class="section-subheading">Education</div>
 		<ul class="ul-edu fa-ul mb-0">
 			<li>
