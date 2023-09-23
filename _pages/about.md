@@ -10,14 +10,14 @@ redirect_from:
 I am now a master student in Renmin University of China, under the supervision of associate professor [Jing Zhang](https://xiaojingzi.github.io/). My research interest falls in data mining and natural language processing. And my current research focuses on large language models and knowledge engineering.
 
 <div style="height:130px">
-	<div style="width:30%;float:left;">
+	<div style="width:35%;float:left;">
 		<h3 style="margin:0rem;">Interests</h3>
 		<ul>
 			<li style="font-size:0.9em;">KB Reasoning</li>
 			<li style="font-size:0.9em;">Argument Large PLM</li>
 			<li style="font-size:0.9em;">NLP</li>
 		</ul>
-	</div><div style="width:70%;float:right;">
+	</div><div style="width:65%;float:right;">
 		<h3 style="margin:0rem;">Education</h3>
 		<ul>
 			<li>
@@ -63,6 +63,15 @@ I am now a master student in Renmin University of China, under the supervision o
           <br>
       	</p>
     </li>
+    <li>
+        <p style="font-size:0.9em;margin:0rem;"><strong>OpenIMR: Open-World Semi-Supervised Learning on
+Graph </strong><span style="font-size:0.85em">submitted to</span><span class="conference">WSDM'24</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
+        <p style="font-size:0.85em;margin:0rem;">Yanling Wang, Jing Zhang, <strong>Lingxi Zhang</strong>,  Lixin Liu, Yuxiao Du, Cuiping Li, Hong Chen, Hongzhi Yin .</p>
+        <p style="font-size:0.8em;color:rgba(0,0,0,.6)">
+          <i>We fully decouple the logical expression into fine-grained knowledge components to overcome the generalization problem and further reformulate them into middle-grained knowledge pairs for generating executable logical expressions.</i>.
+          <br>
+      	</p>
+    </li>
 </ul>
 <h3>2023</h3>
 <ul>
@@ -74,15 +83,35 @@ I am now a master student in Renmin University of China, under the supervision o
           <br>
       	</p>
     </li>
+</ul>
+<h3>2022</h3>
+<ul>
     <li>
-        <p style="font-size:0.9em;margin:0rem;"><strong>A survey on complex factual question answering. </strong><span style="font-size:13px">accepted by</span><span class="conference">AI-Open'23</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
+        <p style="font-size:0.9em;margin:0rem;"><strong>A survey on complex factual question answering. </strong><span style="font-size:13px">accepted by</span><span class="conference">AI Open'23</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
         <p style="font-size:0.85em;margin:0rem;"><strong>Lingxi Zhang</strong>, Jing Zhang, Xirui Ke, Haoyang Li, Xinmei Huang, Zhonghui Shao, Shulin Cao, Xin Lv.</p>
         <p style="font-size:0.8em;color:rgba(0,0,0,.6)">
           <i>We fully decouple the logical expression into fine-grained knowledge components to overcome the generalization problem and further reformulate them into middle-grained knowledge pairs for generating executable logical expressions.</i>.
           <br>
       	</p>
     </li>
-
+</ul>
+<h3>2021</h3>
+<ul>
+    <li>
+        <p style="font-size:0.9em;margin:0rem;"><strong>Neural-symbolic reasoning on knowledge graphs. </strong><span style="font-size:13px">accepted by</span><span class="conference">AI Open'21</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
+        <p style="font-size:0.85em;margin:0rem;">Jing Zhang, Bo Chen, <strong>Lingxi Zhang</strong>, Xirui Ke, Haipeng Ding.</p>
+        <p style="font-size:0.8em;color:rgba(0,0,0,.6)">
+          <i>We fully decouple the logical expression into fine-grained knowledge components to overcome the generalization problem and further reformulate them into middle-grained knowledge pairs for generating executable logical expressions.</i>.
+          <br>
+      	</p>
+    </li>
+    <li>
+        <p style="font-size:0.9em;margin:0rem;"><strong>BERTFusion: Fusing Paths in BERT for Knowledge Graph Reason. </strong><span class="conference">Patent</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
+        <p style="font-size:0.8em;color:rgba(0,0,0,.6)">
+          <i>We fully decouple the logical expression into fine-grained knowledge components to overcome the generalization problem and further reformulate them into middle-grained knowledge pairs for generating executable logical expressions.</i>.
+          <br>
+      	</p>
+    </li>
 </ul>
 </div>
 
@@ -90,7 +119,7 @@ Award
 ======
 <div>
 	<ul>
-		<li style="font-size:0.9em;"><strong>First Prize Scholarship</strong>, Renmin Univ. of China, 2023.</li>
+		<li><p style="font-size:0.9em;"><strong>First Prize Scholarship</strong>, Renmin Univ. of China, 2023.</p></li>
 		<li style="font-size:0.9em;"><strong>National First Prize</strong>, Contemporary Undergraduate Mathematical Contest in Modeling, 2020.</li>
 		<li style="font-size:0.9em;"><strong>Bronze Medal</strong>, The ICPC Asia-East Continent Final, Xi'an Site, 2020.</li>
 		<li style="font-size:0.9em;"><strong>Best All-Girl Team</strong> The ICPC Regional Contest, Nanjing Site, 2019.</li>
