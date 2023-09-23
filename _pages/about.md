@@ -11,27 +11,27 @@ redirect_from:
 I am now a master student in Renmin University of China, under the supervision of associate professor [Jing Zhang](https://xiaojingzi.github.io/). My research interest falls in data mining and natural language processing. And my current research focuses on large language models and knowledge engineering.
 
 <div class="row">
-	<div class="col-md-4">
+	<div class="col-md-2">
 		<div class="section-subheading">Interests</div>
 		<ul class="ul-interests mb-0">
 			<li style="font-size:15px;">Knowledge Base Reasoning</li>
 			<li style="font-size:15px;">Argument Large Language Model</li>
 			<li style="font-size:15px;">Natural language processing</li>
 		</ul>
-	</div><div class="col-md-5">
+	</div><div class="col-md-3">
 		<div class="section-subheading">Education</div>
 		<ul class="ul-edu fa-ul mb-0">
 			<li>
 				<i class="fa-li fas fa-graduation-cap"></i>
 				<div class="description" >
-					<p style="font-size:.9rem;">Master in Computer Science, 2021-2024</p>
+					<p style="font-size:.9rem;margin:0rem;">Master in Computer Science, 2021-2024</p>
 					<p style="font-size:.75rem;color:rgba(0,0,0,.6)">Renmin University of China</p>
 				</div>
 			</li>
 			<li>
 				<i class="fa-li fas fa-graduation-cap"></i>
 				<div class="description" >
-					<p style="font-size:.9rem;">Major in Computer Science &amp; Minor in Mathematics, 2017-2021</p>
+					<p style="font-size:.9rem;margin:0rem;">Major in Computer Science &amp; Minor in Mathematics, 2017-2021</p>
 					<p style="font-size:.75rem;color:rgba(0,0,0,.6)">Renmin University of China</p>
 				</div>
 			</li>
