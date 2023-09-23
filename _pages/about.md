@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a master student in Renmin University of China, under the supervision of associate professor [Jing Zhang](https://xiaojingzi.github.io/). My research interest falls in data mining and natural language processing. My current research focuses on large language models and knowledge engineering.
+I am now a master student in Renmin University of China, under the supervision of associate professor [Jing Zhang](https://xiaojingzi.github.io/). My research interest falls in data mining and natural language processing. And my current research focuses on large language models and knowledge engineering.
 
 A data-driven personal website
 ======
