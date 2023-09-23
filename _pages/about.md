@@ -50,7 +50,7 @@ I am now a master student in Renmin University of China, under the supervision o
 }
 </style>
 
-<br/><br/><span id="Publications">Publication</span>
+<br/><br/><span id="Publication">Publication</span>
 ======
 <div>
 <h3 style="margin:0rem;">Preprint</h3>
