@@ -10,14 +10,14 @@ redirect_from:
 I am now a master student in Renmin University of China, under the supervision of associate professor [Jing Zhang](https://xiaojingzi.github.io/). My research interest falls in data mining and natural language processing. And my current research focuses on large language models and knowledge engineering.
 
 <div class="row" style="height:130px">
-	<div style="width:45%;float:left;">
+	<div style="width:50%;float:left;">
 		<div style="font-size:17px;font-weight:bold;">Interests</div>
 		<ul class="ul-interests mb-0">
 			<li style="font-size:15px;">Knowledge Base Reasoning</li>
 			<li style="font-size:15px;">Argument Large Language Model</li>
 			<li style="font-size:15px;">Natural language processing</li>
 		</ul>
-	</div><div style="width:53%;float:right;">
+	</div><div style="width:50%;float:right;">
 		<div style="font-size:17px;font-weight:bold;">Education</div>
 		<ul class="ul-edu fa-ul mb-0">
 			<li>
@@ -87,3 +87,13 @@ Publication
 </ul>
 </div>
 
+Award
+======
+<div class="split"></div>
+	<ul>
+		<li><strong>First Prize Scholarship</strong>, Renmin Univ. of China, 2023.</li>
+		<li><strong>National First Prize</strong>, Contemporary Undergraduate Mathematical Contest in Modeling, 2020.</li>
+		<li><strong>Bronze Medal</strong>, The ICPC Asia-East Continent Final, Xi'an Site, 2020.</li>
+		<li><strong>Best All-Girl Team</strong> The ICPC Regional Contest, Nanjing Site, 2019.</li>
+	</ul>
+</div>
