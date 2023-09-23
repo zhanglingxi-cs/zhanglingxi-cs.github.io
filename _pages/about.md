@@ -64,8 +64,8 @@ I am now a master student in Renmin University of China, under the supervision o
       	</p>
     </li>
     <li>
-        <p style="font-size:0.9em;margin:0rem;"><strong>OpenIMR: Open-World Semi-Supervised Learning on
-Graph </strong><span style="font-size:0.85em">submitted to</span><span class="conference">WSDM'24</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
+        <p style="font-size:0.9em;margin:0rem;"><strong>Open-World Semi-Supervised Learning on
+Graph. </strong><span style="font-size:0.85em">submitted to</span><span class="conference">WSDM'24</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
         <p style="font-size:0.85em;margin:0rem;">Yanling Wang, Jing Zhang, <strong>Lingxi Zhang</strong>,  Lixin Liu, Yuxiao Du, Cuiping Li, Hong Chen, Hongzhi Yin .</p>
         <p style="font-size:0.8em;color:rgba(0,0,0,.6)">
           <i>We fully decouple the logical expression into fine-grained knowledge components to overcome the generalization problem and further reformulate them into middle-grained knowledge pairs for generating executable logical expressions.</i>.
@@ -106,7 +106,7 @@ Graph </strong><span style="font-size:0.85em">submitted to</span><span class="co
       	</p>
     </li>
     <li>
-        <p style="font-size:0.9em;margin:0rem;"><strong>BERTFusion: Fusing Paths in BERT for Knowledge Graph Reason. </strong><span class="conference">Patent</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
+        <p style="font-size:0.9em;margin:0rem;"><strong>Fusing Paths in BERT for Knowledge Graph Reason. </strong><span class="conference">Patent</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
         <p style="font-size:0.8em;color:rgba(0,0,0,.6)">
           <i>We fully decouple the logical expression into fine-grained knowledge components to overcome the generalization problem and further reformulate them into middle-grained knowledge pairs for generating executable logical expressions.</i>.
           <br>
@@ -120,8 +120,8 @@ Award
 <div>
 	<ul>
 		<li><p style="font-size:0.9em;"><strong>First Prize Scholarship</strong>, Renmin Univ. of China, 2023.</p></li>
-		<li style="font-size:0.9em;"><strong>National First Prize</strong>, Contemporary Undergraduate Mathematical Contest in Modeling, 2020.</li>
-		<li style="font-size:0.9em;"><strong>Bronze Medal</strong>, The ICPC Asia-East Continent Final, Xi'an Site, 2020.</li>
-		<li style="font-size:0.9em;"><strong>Best All-Girl Team</strong> The ICPC Regional Contest, Nanjing Site, 2019.</li>
+		<li><p style="font-size:0.9em;"><strong>National First Prize</strong>, Contemporary Undergraduate Mathematical Contest in Modeling, 2020.</p></li>
+		<li><p style="font-size:0.9em;"><strong>Bronze Medal</strong>, The ICPC Asia-East Continent Final, Xi'an Site, 2020.</p></li>
+		<li><p style="font-size:0.9em;"><strong>Best All-Girl Team</strong> The ICPC Regional Contest, Nanjing Site, 2019.</p></li>
 	</ul>
 </div>
