@@ -23,21 +23,22 @@ I am now a master student in Renmin University of China, under the supervision o
 		<ul class="ul-edu fa-ul mb-0">
 			<li>
 				<i class="fa-li fas fa-graduation-cap"></i>
-				<div class="description" style="font-size:15px;">
-					<p class="course">Master in Computer Science, 2021-2024</p>
-					<p class="institution">Renmin University of China</p>
+				<div class="description" >
+					<p style="font-size:.9rem;">Master in Computer Science, 2021-2024</p>
+					<p style="font-size:.75rem;color:rgba(0,0,0,.6)">Renmin University of China</p>
 				</div>
 			</li>
 			<li>
 				<i class="fa-li fas fa-graduation-cap"></i>
-				<div class="description" style="font-size:15px;">
-					<p class="course">Major in Computer Science &amp; Minior in Mathemtics, 2017-2021</p>
-					<p class="institution">Renmin University of China</p>
+				<div class="description" >
+					<p style="font-size:.9rem;">Major in Computer Science &amp; Minor in Mathematics, 2017-2021</p>
+					<p style="font-size:.75rem;color:rgba(0,0,0,.6)">Renmin University of China</p>
 				</div>
 			</li>
 		</ul>
 	</div>
 </div>
+
 
 A data-driven personal website
 ======
