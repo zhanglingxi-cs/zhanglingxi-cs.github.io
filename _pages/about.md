@@ -10,7 +10,7 @@ redirect_from:
 
 I am now a master student in Renmin University of China, under the supervision of associate professor [Jing Zhang](https://xiaojingzi.github.io/). My research interest falls in data mining and natural language processing. And my current research focuses on large language models and knowledge engineering.
 
-<div class="row" style="height:100px">
+<div class="row" style="height:130px">
 	<div style="width:45%;float:left;">
 		<div style="font-size:17px;font-weight:bold;">Interests</div>
 		<ul class="ul-interests mb-0">
