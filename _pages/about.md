@@ -9,27 +9,27 @@ redirect_from:
 ---
 I am now a master student in Renmin University of China, under the supervision of associate professor [Jing Zhang](https://xiaojingzi.github.io/). My research interest falls in data mining and natural language processing. And my current research focuses on large language models and knowledge engineering.
 
-<div class="row" style="height:130px">
+<div style="height:130px">
 	<div style="width:50%;float:left;">
 		<div style="font-size:17px;font-weight:bold;">Interests</div>
-		<ul class="ul-interests mb-0">
+		<ul>
 			<li style="font-size:15px;">Knowledge Base Reasoning</li>
 			<li style="font-size:15px;">Argument Large Language Model</li>
 			<li style="font-size:15px;">Natural language processing</li>
 		</ul>
 	</div><div style="width:50%;float:right;">
 		<div style="font-size:17px;font-weight:bold;">Education</div>
-		<ul class="ul-edu fa-ul mb-0">
+		<ul>
 			<li>
 				<i class="fa-li fas fa-graduation-cap"></i>
-				<div class="description" >
+				<div>
 					<p style="font-size:15px;margin:0rem;">Master in Computer Science, 2021-2024</p>
 					<p style="font-size:10px;color:rgba(0,0,0,.6)">Renmin University of China</p>
 				</div>
 			</li>
 			<li>
 				<i class="fa-li fas fa-graduation-cap"></i>
-				<div class="description" >
+				<div>
 					<p style="font-size:15px;margin:0rem;">Major in Computer Science &amp; Minor in Mathematics, 2017-2021</p>
 					<p style="font-size:10px;color:rgba(0,0,0,.6)">Renmin University of China</p>
 				</div>
@@ -49,7 +49,7 @@ I am now a master student in Renmin University of China, under the supervision o
     font-size:13px;
 }
 </style>
-<br/><br/>
+<br/>
 
 Publication
 ======
@@ -58,7 +58,7 @@ Publication
 <ul>
     <li>
         <p style="font-size:15px;margin:0rem;"><strong>A Large LLM Enhanced Solution for Real World Knowledge Base Question Answering. </strong><span style="font-size:13px">submitted to</span><span class="conference">WWW'24</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
-        <p style="font-size:13px;margin:0rem;"><strong>Lingxi Zhang</strong>, Jing Zhang, Yanling Wang, Shulin Cao, Xinmei Huang, Cuiping Li, Hong Chen, Juanzi Li.</p>
+        <p style="font-size:13px;margin:0rem;"><strong>Lingxi Zhang</strong>, Jing Zhang, Bohan Zhang,  Cuiping Li, Hong Chen.</p>
         <p style="font-size:10px;color:rgba(0,0,0,.6)">
           <i>We fully decouple the logical expression into fine-grained knowledge components to overcome the generalization problem and further reformulate them into middle-grained knowledge pairs for generating executable logical expressions.</i>.
           <br>
@@ -89,7 +89,7 @@ Publication
 
 Award
 ======
-<div class="split"></div>
+<div>
 	<ul>
 		<li><strong>First Prize Scholarship</strong>, Renmin Univ. of China, 2023.</li>
 		<li><strong>National First Prize</strong>, Contemporary Undergraduate Mathematical Contest in Modeling, 2020.</li>
