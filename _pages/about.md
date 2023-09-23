@@ -50,9 +50,9 @@ I am now a master student in Renmin University of China, under the supervision o
 }
 </style>
 
-<br/><br/>Publication
+<br/><br/>[Publication](#publications)
 ======
-<div id="publications">
+<div>
 <h3 style="margin:0rem;">Preprint</h3>
 <ul>
     <li>
@@ -112,7 +112,7 @@ Graph. </strong><span style="font-size:0.85em">submitted to</span><span class="c
 </ul>
 </div>
 
-<br/>Award
+<br/>[Award](#Award)
 ======
 <div>
 	<ul>
@@ -123,7 +123,7 @@ Graph. </strong><span style="font-size:0.85em">submitted to</span><span class="c
 	</ul>
 </div>
 
-<br/>Experience
+<br/>[Experience](#Experience)
 ====
 <div style="font-size:0.87em;">
 	<ul>

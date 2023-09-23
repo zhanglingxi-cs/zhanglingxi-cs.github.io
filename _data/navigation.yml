@@ -4,9 +4,9 @@ main:
     url: "#publications"
 
   - title: "Award"
-    url: /talks/    
+    url: "#Award"   
 
   - title: "Experience"
-    url: /teaching/    
+    url: "#Experience"  
     
 
