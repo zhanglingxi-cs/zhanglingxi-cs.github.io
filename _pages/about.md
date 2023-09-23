@@ -49,7 +49,7 @@ I am now a master student in Renmin University of China, under the supervision o
     font-size:13px;
 }
 </style>
-<br/><br/><br/><br/>
+<br/><br/>
 
 Publication
 ======
