@@ -112,7 +112,7 @@ Graph. </strong><span style="font-size:0.85em">submitted to</span><span class="c
 </ul>
 </div>
 
-Award
+<br/>Award
 ======
 <div>
 	<ul>
@@ -123,7 +123,7 @@ Award
 	</ul>
 </div>
 
-Experience
+<br/>Experience
 ====
 <div style="font-size:0.87em;">
 	<ul>
@@ -136,7 +136,7 @@ Experience
 	  <li>
 	    <strong>Research Intern, ByteDance</strong>
 	    <p>
-	      11/2021 - 06/2022,AI Lab
+	      11/2021 - 06/2022, AI Lab
 	    </p>
 	  </li>
 	  <li>
