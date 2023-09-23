@@ -12,7 +12,6 @@ I am now a master student in Renmin University of China, under the supervision o
 <div style="height:130px">
 	<div style="width:50%;float:left;">
 		<h3>Interests</h3>
-		/*<div style="font-size:19px;font-weight:bold;"></div>*/
 		<ul>
 			<li style="font-size:1em;">Knowledge Base Reasoning</li>
 			<li style="font-size:1em;">Argument Large Language Model</li>
@@ -20,20 +19,19 @@ I am now a master student in Renmin University of China, under the supervision o
 		</ul>
 	</div><div style="width:50%;float:right;">
 		<h3>Education</h3>
-		/*<div style="font-size:19px;font-weight:bold;">Education</div>*/
 		<ul>
 			<li>
 				<i class="fa-li fas fa-graduation-cap"></i>
 				<div>
 					<p style="font-size:1em;margin:0rem;">Master in Computer Science, 2021-2024</p>
-					<p style="font-size:0.7em;color:rgba(0,0,0,.6)">Renmin University of China</p>
+					<p style="font-size:0.8em;color:rgba(0,0,0,.6)">Renmin University of China</p>
 				</div>
 			</li>
 			<li>
 				<i class="fa-li fas fa-graduation-cap"></i>
 				<div>
 					<p style="font-size:1em;margin:0rem;">Major in Computer Science &amp; Minor in Mathematics, 2017-2021</p>
-					<p style="font-size:0.7em;color:rgba(0,0,0,.6)">Renmin University of China</p>
+					<p style="font-size:0.8em;color:rgba(0,0,0,.6)">Renmin University of China</p>
 				</div>
 			</li>
 		</ul>
@@ -59,7 +57,7 @@ I am now a master student in Renmin University of China, under the supervision o
 <ul>
     <li>
         <p style="font-size:1em;margin:0rem;"><strong>A Large LLM Enhanced Solution for Real World Knowledge Base Question Answering. </strong><span style="font-size:13px">submitted to</span><span class="conference">WWW'24</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
-        <p style="font-size:0.9px;margin:0rem;"><strong>Lingxi Zhang</strong>, Jing Zhang, Bohan Zhang,  Cuiping Li, Hong Chen.</p>
+        <p style="font-size:0.95px;margin:0rem;"><strong>Lingxi Zhang</strong>, Jing Zhang, Bohan Zhang,  Cuiping Li, Hong Chen.</p>
         <p style="font-size:0.8em;color:rgba(0,0,0,.6)">
           <i>We fully decouple the logical expression into fine-grained knowledge components to overcome the generalization problem and further reformulate them into middle-grained knowledge pairs for generating executable logical expressions.</i>.
           <br>
