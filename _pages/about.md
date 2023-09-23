@@ -11,15 +11,15 @@ redirect_from:
 I am now a master student in Renmin University of China, under the supervision of associate professor [Jing Zhang](https://xiaojingzi.github.io/). My research interest falls in data mining and natural language processing. And my current research focuses on large language models and knowledge engineering.
 
 <div class="row">
-	<div style="width:38%;float:left;">
-		<div class="section-subheading">Interests</div>
+	<div style="width:45%;float:left;">
+		<div style="font-size:17px;font-weight: bold;">Interests</div>
 		<ul class="ul-interests mb-0">
 			<li style="font-size:15px;">Knowledge Base Reasoning</li>
 			<li style="font-size:15px;">Argument Large Language Model</li>
 			<li style="font-size:15px;">Natural language processing</li>
 		</ul>
-	</div><div style="width:60%;float:right;">
-		<div class="section-subheading">Education</div>
+	</div><div style="width:52%;float:right;">
+		<div style="font-size:17px;">Education</div>
 		<ul class="ul-edu fa-ul mb-0">
 			<li>
 				<i class="fa-li fas fa-graduation-cap"></i>
