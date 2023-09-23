@@ -54,7 +54,7 @@ I am now a master student in Renmin University of China, under the supervision o
 <h3>Preprint</h3>
 <ul>
     <li>
-        <p style="font-size:15px;margin:0rem;"><strong>A Fine-to-Coarse Compositional Framework for Knowledge Base Question Answering. </strong><span class="conference">ACL'23</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
+        <p style="font-size:15px;margin:0rem;"><strong>A Large LLM Enhanced Solution for Real World KBQA </strong>submitted to<span class="conference">WWW'24</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
         <p style="font-size:13px;margin:0rem;"><strong>Lingxi Zhang</strong>, Jing Zhang, Yanling Wang, Shulin Cao, Xinmei Huang, Cuiping Li, Hong Chen, Juanzi Li.</p>
         <p style="font-size:10px;color:rgba(0,0,0,.6)">
           <i>We fully decouple the logical expression into fine-grained knowledge components to overcome the generalization problem and further reformulate them into middle-grained knowledge pairs for generating executable logical expressions.</i>.
@@ -65,7 +65,7 @@ I am now a master student in Renmin University of China, under the supervision o
 <h3>2023</h3>
 <ul>
     <li>
-        <p style="font-size:15px;margin:0rem;"><strong>A Fine-to-Coarse Compositional Framework for Knowledge Base Question Answering. </strong><span class="conference">ACL'23</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
+        <p style="font-size:15px;margin:0rem;"><strong>A Fine-to-Coarse Compositional Framework for Knowledge Base Question Answering. </strong>accepeted by<span class="conference">ACL'23</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
         <p style="font-size:13px;margin:0rem;"><strong>Lingxi Zhang</strong>, Jing Zhang, Yanling Wang, Shulin Cao, Xinmei Huang, Cuiping Li, Hong Chen, Juanzi Li.</p>
         <p style="font-size:10px;color:rgba(0,0,0,.6)">
           <i>We fully decouple the logical expression into fine-grained knowledge components to overcome the generalization problem and further reformulate them into middle-grained knowledge pairs for generating executable logical expressions.</i>.
@@ -73,7 +73,7 @@ I am now a master student in Renmin University of China, under the supervision o
       	</p>
     </li>
     <li>
-        <p style="font-size:15px;margin:0rem;"><strong>A survey on complex factual question answering. </strong><span class="conference">AI Open'23</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
+        <p style="font-size:15px;margin:0rem;"><strong>A survey on complex factual question answering. </strong>accepeted by<span class="conference">AI Open'23</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
         <p style="font-size:13px;margin:0rem;"><strong>Lingxi Zhang</strong>, Jing Zhang, Xirui Ke, Haoyang Li, Xinmei Huang, Zhonghui Shao, Shulin Cao, Xin Lv.</p>
         <p style="font-size:10px;color:rgba(0,0,0,.6)">
           <i>We fully decouple the logical expression into fine-grained knowledge components to overcome the generalization problem and further reformulate them into middle-grained knowledge pairs for generating executable logical expressions.</i>.
