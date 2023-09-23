@@ -14,24 +14,24 @@ I am now a master student in Renmin University of China, under the supervision o
 	<div class="col-md-4">
 		<div class="section-subheading">Interests</div>
 		<ul class="ul-interests mb-0">
-			<li style="font-size:10px;">Knowledge Base Reasoning</li>
-			<li style="font-size:5px;">Argument Large Language Model</li>
-			<li style="font-size:15px;">Natural lan</li>
+			<li style="font-size:15px;">Knowledge Base Reasoning</li>
+			<li style="font-size:15px;">Argument Large Language Model</li>
+			<li style="font-size:15px;">Natural language processing</li>
 		</ul>
 	</div><div class="col-md-5">
 		<div class="section-subheading">Education</div>
 		<ul class="ul-edu fa-ul mb-0">
 			<li>
 				<i class="fa-li fas fa-graduation-cap"></i>
-				<div class="description">
+				<div class="description" style="font-size:15px;">
 					<p class="course">Master in Computer Science, 2021-2024</p>
 					<p class="institution">Renmin University of China</p>
 				</div>
 			</li>
 			<li>
 				<i class="fa-li fas fa-graduation-cap"></i>
-				<div class="description">
-					<p class="course">BSc in Computer Science &amp; Mathemtics, 2017-2021</p>
+				<div class="description" style="font-size:15px;">
+					<p class="course">Major in Computer Science &amp; Minior in Mathemtics, 2017-2021</p>
 					<p class="institution">Renmin University of China</p>
 				</div>
 			</li>
