@@ -83,9 +83,6 @@ Graph. </strong><span style="font-size:0.85em">submitted to</span><span class="c
           <br>
       	</p>
     </li>
-</ul>
-<h3>2022</h3>
-<ul>
     <li>
         <p style="font-size:0.9em;margin:0rem;"><strong>A survey on complex factual question answering. </strong><span style="font-size:13px">accepted by</span><span class="conference">AI Open'23</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
         <p style="font-size:0.85em;margin:0rem;"><strong>Lingxi Zhang</strong>, Jing Zhang, Xirui Ke, Haoyang Li, Xinmei Huang, Zhonghui Shao, Shulin Cao, Xin Lv.</p>
@@ -95,7 +92,7 @@ Graph. </strong><span style="font-size:0.85em">submitted to</span><span class="c
       	</p>
     </li>
 </ul>
-<h3>2021</h3>
+<h3>2022-</h3>
 <ul>
     <li>
         <p style="font-size:0.9em;margin:0rem;"><strong>Neural-symbolic reasoning on knowledge graphs. </strong><span style="font-size:13px">accepted by</span><span class="conference">AI Open'21</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
@@ -119,8 +116,8 @@ Award
 ======
 <div>
 	<ul>
-		<li><p style="font-size:0.9em;margin:0rem;"><strong>First Prize Scholarship</strong>, Renmin Univ. of China, 2023.</p></li>
-		<li><p style="font-size:0.9em;margin:0rem;"><strong>National First Prize</strong>, Contemporary Undergraduate Mathematical Contest in Modeling, 2020.</p></li>
+		<li style="font-size:0.9em;margin:0rem;"><strong>First Prize Scholarship</strong>, Renmin Univ. of China, 2023.</li>
+		<li style="font-size:0.9em;margin:0rem;"><strong>National First Prize</strong>, Contemporary Undergraduate Mathematical Contest in Modeling, 2020.</li>
 		<li><p style="font-size:0.9em;margin:0rem;"><strong>Bronze Medal</strong>, The ICPC Asia-East Continent Final, Xi'an Site, 2020.</p></li>
 		<li><p style="font-size:0.9em;margin:0rem;"><strong>Best All-Girl Team</strong> The ICPC Regional Contest, Nanjing Site, 2019.</p></li>
 	</ul>
