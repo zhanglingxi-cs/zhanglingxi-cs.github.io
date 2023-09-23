@@ -50,8 +50,9 @@ I am now a master student in Renmin University of China, under the supervision o
     font-size:13px;
 }
 </style>
+Publication
+======
 <div>
-<h2>Publication</h2>
 <h3>Preprint</h3>
 <ul>
     <li>
