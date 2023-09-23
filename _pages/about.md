@@ -11,28 +11,28 @@ redirect_from:
 I am now a master student in Renmin University of China, under the supervision of associate professor [Jing Zhang](https://xiaojingzi.github.io/). My research interest falls in data mining and natural language processing. And my current research focuses on large language models and knowledge engineering.
 
 <div class="row">
-	<div class="col-md-5">
+	<div class="col-md-4">
 		<div class="section-subheading">Interests</div>
 		<ul class="ul-interests mb-0">
-			<li>AI4DB &amp; AI4System</li>
-			<li>Query Optimization</li>
-			<li>Time Series Forecasting</li>
+			<li style="font-size:10px;">Knowledge Base Reasoning</li>
+			<li style="font-size:5px;">Argument Large Language Model</li>
+			<li style="font-size:15px;">Natural lan</li>
 		</ul>
-	</div><div class="col-md-7">
+	</div><div class="col-md-5">
 		<div class="section-subheading">Education</div>
 		<ul class="ul-edu fa-ul mb-0">
 			<li>
 				<i class="fa-li fas fa-graduation-cap"></i>
 				<div class="description">
-					<p class="course">Master &amp; PhD in Computer Science, 2017-2023</p>
+					<p class="course">Master in Computer Science, 2021-2024</p>
 					<p class="institution">Renmin University of China</p>
 				</div>
 			</li>
 			<li>
 				<i class="fa-li fas fa-graduation-cap"></i>
 				<div class="description">
-					<p class="course">BSc in Computer Science, 2013-2017</p>
-					<p class="institution">Xi'an Jiaotong University</p>
+					<p class="course">BSc in Computer Science &amp; Mathemtics, 2017-2021</p>
+					<p class="institution">Renmin University of China</p>
 				</div>
 			</li>
 		</ul>
