@@ -122,3 +122,37 @@ Award
 		<li><p style="font-size:0.9em;margin:0rem;"><strong>Best All-Girl Team</strong> The ICPC Regional Contest, Nanjing Site, 2019.</p></li>
 	</ul>
 </div>
+
+Experience
+====
+<div>
+	<ul>
+	  <li>
+	    <strong>Visiting Graduate Student, GaTech</strong>
+	    <p>
+	      04/2023 - precent, Remote, with <a href="http://chaozhang.org/" target="_blank">Prof. Chao Zhang</a>.
+	    </p>
+	  </li>
+	  <li>
+	    <strong>Research Intern, ByteDance</strong>
+	    <p>
+	      11/2021 - 06/2022,AI Lab
+	    </p>
+	  </li>
+	  <li>
+	    <strong>Research Intern, Zhipur</strong>
+	    <p>
+	      03/2021 - 09/2021, with Dr. Peng Zhang</a>.
+	    </p>
+	  </li>
+	  <li>
+	    <strong>Teaching Assistant, Renmin Univ. of China</strong>&nbsp;[<a href="#" data-toggle="collapse" data-target="#ta_list">expand</a>]
+	    <div id="ta_list" class="collapse in">
+	      <ul>
+	        <li>2019 Summer, Mathematical Analysis.</li>
+	        <li>2021,2022 Summer, Machine Learning and Computational Intelligence.</li>
+	      </ul>
+	    </div>
+	  </li>
+	</ul>
+</div>
