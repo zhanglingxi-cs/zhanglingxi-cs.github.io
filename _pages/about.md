@@ -43,10 +43,11 @@ I am now a master student in Renmin University of China, under the supervision o
 .conference{
     color: #fff;
     background-color:rgba(48, 125, 246, 0.75);
-    border-radius: 0.125rem;
+    border-radius: 0.12rem;
     box-shadow: 0 2px 5px 0 rgba(0,0,0,0.06), 0 2px 10px 0 rgba(0,0,0,0.06);
     padding: 0.05em 0.2em;
     margin-right: 5px;
+    margin-left: 5px;
 }
 </style>
 <div>
@@ -54,7 +55,7 @@ I am now a master student in Renmin University of China, under the supervision o
 <h3>Preprint</h3>
 <ul>
     <li>
-        <p style="font-size:15px;margin:0rem;"><strong>A Large LLM Enhanced Solution for Real World Knowledge Base Question Answering. </strong>submitted to<span class="conference">WWW'24</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
+        <p style="font-size:15px;margin:0rem;"><strong>A Large LLM Enhanced Solution for Real World Knowledge Base Question Answering. </strong><span>submitted to </span><span class="conference">WWW'24</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
         <p style="font-size:13px;margin:0rem;"><strong>Lingxi Zhang</strong>, Jing Zhang, Yanling Wang, Shulin Cao, Xinmei Huang, Cuiping Li, Hong Chen, Juanzi Li.</p>
         <p style="font-size:10px;color:rgba(0,0,0,.6)">
           <i>We fully decouple the logical expression into fine-grained knowledge components to overcome the generalization problem and further reformulate them into middle-grained knowledge pairs for generating executable logical expressions.</i>.
@@ -73,7 +74,7 @@ I am now a master student in Renmin University of China, under the supervision o
       	</p>
     </li>
     <li>
-        <p style="font-size:15px;margin:0rem;"><strong>A survey on complex factual question answering. </strong>accepted by <span class="conference">AI Open'23</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
+        <p style="font-size:15px;margin:0rem;"><strong>A survey on complex factual question answering. </strong><span>accepted by </span><span class="conference">AI Open'23</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
         <p style="font-size:13px;margin:0rem;"><strong>Lingxi Zhang</strong>, Jing Zhang, Xirui Ke, Haoyang Li, Xinmei Huang, Zhonghui Shao, Shulin Cao, Xin Lv.</p>
         <p style="font-size:10px;color:rgba(0,0,0,.6)">
           <i>We fully decouple the logical expression into fine-grained knowledge components to overcome the generalization problem and further reformulate them into middle-grained knowledge pairs for generating executable logical expressions.</i>.
