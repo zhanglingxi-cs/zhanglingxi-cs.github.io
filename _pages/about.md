@@ -10,7 +10,7 @@ redirect_from:
 
 I am now a master student in Renmin University of China, under the supervision of associate professor [Jing Zhang](https://xiaojingzi.github.io/). My research interest falls in data mining and natural language processing. And my current research focuses on large language models and knowledge engineering.
 
-<div class="row">
+<div class="row" style="height:100px">
 	<div style="width:45%;float:left;">
 		<div style="font-size:17px;font-weight:bold;">Interests</div>
 		<ul class="ul-interests mb-0">
@@ -52,10 +52,6 @@ I am now a master student in Renmin University of China, under the supervision o
 }
 </style>
 <div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <h2>Publication</h2>
 <h3>Preprint</h3>
 <ul>
@@ -79,7 +75,7 @@ I am now a master student in Renmin University of China, under the supervision o
       	</p>
     </li>
     <li>
-        <p style="font-size:15px;margin:0rem;"><strong>A survey on complex factual question answering. </strong><span style="font-size:13px">accepted by</span><span class="conference">AI Open'23</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
+        <p style="font-size:15px;margin:0rem;"><strong>A survey on complex factual question answering. </strong><span style="font-size:13px">accepted by</span><span class="conference">AI-Open'23</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
         <p style="font-size:13px;margin:0rem;"><strong>Lingxi Zhang</strong>, Jing Zhang, Xirui Ke, Haoyang Li, Xinmei Huang, Zhonghui Shao, Shulin Cao, Xin Lv.</p>
         <p style="font-size:10px;color:rgba(0,0,0,.6)">
           <i>We fully decouple the logical expression into fine-grained knowledge components to overcome the generalization problem and further reformulate them into middle-grained knowledge pairs for generating executable logical expressions.</i>.
