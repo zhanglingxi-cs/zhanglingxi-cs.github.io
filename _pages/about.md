@@ -13,8 +13,8 @@ I am now a master student in Renmin University of China, under the supervision o
 	<div style="width:50%;float:left;">
 		<h3 style="margin:0rem;">Interests</h3>
 		<ul>
-			<li style="font-size:1em;">Knowledge Base Reasoning</li>
-			<li style="font-size:1em;">Argument Large Language Model</li>
+			<li style="font-size:1em;">KB Reasoning</li>
+			<li style="font-size:1em;">Argument Large PLM</li>
 			<li style="font-size:1em;">Natural language processing</li>
 		</ul>
 	</div><div style="width:50%;float:right;">
@@ -50,7 +50,7 @@ I am now a master student in Renmin University of China, under the supervision o
 }
 </style>
 
-<br/>Publication
+<br/><br/>Publication
 ======
 <div>
 <h3 style="margin:0rem;">Preprint</h3>
