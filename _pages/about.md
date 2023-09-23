@@ -39,7 +39,7 @@ I am now a master student in Renmin University of China, under the supervision o
 	</div>
 </div>
 <br>
-<div>
+<style>
 .span{
     color: #fff;
     background-color:rgba(48, 125, 246, 0.75);
@@ -48,6 +48,8 @@ I am now a master student in Renmin University of China, under the supervision o
     padding: 0.05em 0.2em;
     margin-right: 5px;
 }
+</style>
+<div>
 <h2>Publication</h2>
 <h3>Preprint</h3>
 <ul>
