@@ -40,7 +40,7 @@ I am now a master student in Renmin University of China, under the supervision o
 </div>
 </br>
 <style>
-.span{
+.conference{
     color: #fff;
     background-color:rgba(48, 125, 246, 0.75);
     border-radius: 0.125rem;
@@ -54,7 +54,7 @@ I am now a master student in Renmin University of China, under the supervision o
 <h3>Preprint</h3>
 <ul>
     <li>
-        <p style="font-size:15px;margin:0rem;"><strong>A Fine-to-Coarse Compositional Framework for Knowledge Base Question Answering.</strong><div class="span">AI Open 2023</div>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
+        <p style="font-size:15px;margin:0rem;"><strong>A Fine-to-Coarse Compositional Framework for Knowledge Base Question Answering.</strong><span class="conference">AI Open 2023</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
         <p style="font-size:15px;margin:0rem;"><strong>Lingxi Zhang</strong>, Jing Zhang, Yanling Wang, Shulin Cao, Xinmei Huang, Cuiping Li, Hong Chen, Juanzi Li.</p>
         <p style="font-size:10px;color:rgba(0,0,0,.6)">
           <i>We fully decouple the logical expression into fine-grained knowledge components to overcome the generalization problem and further reformulate them into middle-grained knowledge pairs for generating executable logical expressions.</i>.
