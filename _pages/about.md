@@ -68,7 +68,7 @@ I am now a master student in Renmin University of China, under the supervision o
 Graph. </strong><span style="font-size:0.85em">submitted to</span><span class="conference">WSDM'24</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
         <p style="font-size:0.85em;margin:0rem;">Yanling Wang, Jing Zhang, <strong>Lingxi Zhang</strong>,  Lixin Liu, Yuxiao Du, Cuiping Li, Hong Chen, Hongzhi Yin .</p>
         <p style="font-size:0.8em;color:rgba(0,0,0,.6)">
-          <i>We fully decouple the logical expression into fine-grained knowledge components to overcome the generalization problem and further reformulate them into middle-grained knowledge pairs for generating executable logical expressions.</i>.
+          <i>We theoretically proof the effect of imbalance issue in graph data and propose an approach to narrow the gap between intra-class variances which learns compact representations for seen classes, thus alleviates the negative impact caused by the imbalance issue.</i>.
           <br>
       	</p>
     </li>
@@ -87,7 +87,7 @@ Graph. </strong><span style="font-size:0.85em">submitted to</span><span class="c
         <p style="font-size:0.9em;margin:0rem;"><strong>A survey on complex factual question answering. </strong><span style="font-size:13px">accepted by</span><span class="conference">AI Open'23</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
         <p style="font-size:0.85em;margin:0rem;"><strong>Lingxi Zhang</strong>, Jing Zhang, Xirui Ke, Haoyang Li, Xinmei Huang, Zhonghui Shao, Shulin Cao, Xin Lv.</p>
         <p style="font-size:0.8em;color:rgba(0,0,0,.6)">
-          <i>We fully decouple the logical expression into fine-grained knowledge components to overcome the generalization problem and further reformulate them into middle-grained knowledge pairs for generating executable logical expressions.</i>.
+          <i>We carefully survey all recent complex factual question answering models across various data sources, list the similarities among these approaches and group them into the analysis-extend-reason framework.</i>.
           <br>
       	</p>
     </li>
@@ -98,14 +98,14 @@ Graph. </strong><span style="font-size:0.85em">submitted to</span><span class="c
         <p style="font-size:0.9em;margin:0rem;"><strong>Neural-symbolic reasoning on knowledge graphs. </strong><span style="font-size:13px">accepted by</span><span class="conference">AI Open'21</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
         <p style="font-size:0.85em;margin:0rem;">Jing Zhang, Bo Chen, <strong>Lingxi Zhang</strong>, Xirui Ke, Haipeng Ding.</p>
         <p style="font-size:0.8em;color:rgba(0,0,0,.6)">
-          <i>We fully decouple the logical expression into fine-grained knowledge components to overcome the generalization problem and further reformulate them into middle-grained knowledge pairs for generating executable logical expressions.</i>.
+          <i>We take a thorough look at the development of the symbolic, neural and hybrid reasoning on knowledge graphs. We survey two specific reasoning tasks — knowledge graph completion and question answering on knowledge graphs, and explain them in a unified reasoning framework.</i>.
           <br>
       	</p>
     </li>
     <li>
         <p style="font-size:0.9em;margin:0rem;"><strong>Fusing Paths in BERT for Knowledge Graph Reason. </strong><span class="conference">Patent</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
         <p style="font-size:0.8em;color:rgba(0,0,0,.6)">
-          <i>We fully decouple the logical expression into fine-grained knowledge components to overcome the generalization problem and further reformulate them into middle-grained knowledge pairs for generating executable logical expressions.</i>.
+          <i>We study a path-based model that is not limited to a path in linguistic format, where the retriever locates the most confident pieces of evidences and the reader fuses them together for extracting answer from these evidences as a whole.</i>.
           <br>
       	</p>
     </li>
