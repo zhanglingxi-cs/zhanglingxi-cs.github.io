@@ -92,7 +92,7 @@ Graph. </strong><span style="font-size:0.85em">submitted to</span><span class="c
       	</p>
     </li>
 </ul>
-<h3>2022-</h3>
+<h3>2022-2021</h3>
 <ul>
     <li>
         <p style="font-size:0.9em;margin:0rem;"><strong>Neural-symbolic reasoning on knowledge graphs. </strong><span style="font-size:13px">accepted by</span><span class="conference">AI Open'21</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
@@ -116,16 +116,16 @@ Award
 ======
 <div>
 	<ul>
-		<li style="font-size:0.9em;margin:0rem;"><strong>First Prize Scholarship</strong>, Renmin Univ. of China, 2023.</li>
-		<li style="font-size:0.9em;margin:0rem;"><strong>National First Prize</strong>, Contemporary Undergraduate Mathematical Contest in Modeling, 2020.</li>
-		<li><p style="font-size:0.9em;margin:0rem;"><strong>Bronze Medal</strong>, The ICPC Asia-East Continent Final, Xi'an Site, 2020.</p></li>
-		<li><p style="font-size:0.9em;margin:0rem;"><strong>Best All-Girl Team</strong> The ICPC Regional Contest, Nanjing Site, 2019.</p></li>
+		<li style="font-size:0.8em;margin:0rem;"><strong>First Prize Scholarship</strong>, Renmin Univ. of China, 2023.</li>
+		<li style="font-size:0.8em;margin:0rem;"><strong>National First Prize</strong>, Contemporary Undergraduate Mathematical Contest in Modeling, 2020.</li>
+		<li><p style="font-size:0.8em;margin:0rem;"><strong>Bronze Medal</strong>, The ICPC Asia-East Continent Final, Xi'an Site, 2020.</p></li>
+		<li><p style="font-size:0.8em;margin:0rem;"><strong>Best All-Girl Team</strong> The ICPC Regional Contest, Nanjing Site, 2019.</p></li>
 	</ul>
 </div>
 
 Experience
 ====
-<div>
+<div style="font-size:0.8em;">
 	<ul>
 	  <li>
 	    <strong>Visiting Graduate Student, GaTech</strong>
@@ -142,17 +142,15 @@ Experience
 	  <li>
 	    <strong>Research Intern, Zhipur</strong>
 	    <p>
-	      03/2021 - 09/2021, with Dr. Peng Zhang</a>.
+	      03/2021 - 09/2021, with Dr. Peng Zhang.
 	    </p>
 	  </li>
 	  <li>
-	    <strong>Teaching Assistant, Renmin Univ. of China</strong>&nbsp;[<a href="#" data-toggle="collapse" data-target="#ta_list">expand</a>]
-	    <div id="ta_list" class="collapse in">
+	    <strong>Teaching Assistant, Renmin Univ. of China</strong>
 	      <ul>
 	        <li>2019 Summer, Mathematical Analysis.</li>
 	        <li>2021,2022 Summer, Machine Learning and Computational Intelligence.</li>
 	      </ul>
-	    </div>
 	  </li>
 	</ul>
 </div>
