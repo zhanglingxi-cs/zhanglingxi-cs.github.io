@@ -12,13 +12,13 @@ I am now a master student in Renmin University of China, under the supervision o
 
 <div class="row">
 	<div style="width:45%;float:left;">
-		<div style="font-size:17px;font-weight: bold;">Interests</div>
+		<div style="font-size:17px;font-weight:bold;">Interests</div>
 		<ul class="ul-interests mb-0">
 			<li style="font-size:15px;">Knowledge Base Reasoning</li>
 			<li style="font-size:15px;">Argument Large Language Model</li>
 			<li style="font-size:15px;">Natural language processing</li>
 		</ul>
-	</div><div style="width:52%;float:right;">
+	</div><div style="font-size:17px;font-weight:bold;">
 		<div style="font-size:17px;">Education</div>
 		<ul class="ul-edu fa-ul mb-0">
 			<li>
