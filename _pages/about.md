@@ -50,7 +50,7 @@ I am now a master student in Renmin University of China, under the supervision o
 }
 </style>
 
-<br/><br/>Publication<span id="Publication">Publication</span>
+<br/><br/><span id="Publications">Publication</span>
 ======
 <div>
 <h3 style="margin:0rem;">Preprint</h3>
@@ -112,7 +112,7 @@ Graph. </strong><span style="font-size:0.85em">submitted to</span><span class="c
 </ul>
 </div>
 
-<br/>Award<span id="Award">Award</span>
+<br/><span id="Award">Award</span>
 ======
 <div>
 	<ul>
@@ -123,7 +123,7 @@ Graph. </strong><span style="font-size:0.85em">submitted to</span><span class="c
 	</ul>
 </div>
 
-<br/>Experience<span id="Experience">Experience</span>
+<br/><span id="Experience">Experience</span>
 ====
 <div style="font-size:0.87em;">
 	<ul>
