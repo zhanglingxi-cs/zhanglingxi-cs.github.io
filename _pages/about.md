@@ -56,7 +56,7 @@ I am now a master student in Renmin University of China, under the supervision o
 <h3 style="margin:0rem;">Preprint</h3>
 <ul>
     <li>
-        <p style="font-size:0.9em;margin:0rem;"><strong>A Large LLM Enhanced Solution for Real World Knowledge Base Question Answering. </strong><span style="font-size:0.85em">submitted to</span><span class="conference">WWW'24</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
+        <p style="font-size:0.9em;margin:0rem;"><strong>A Large LLM Enhanced Solution for Real World Knowledge Base Question Answering. </strong><span style="font-size:0.85em">submitted to</span><span class="conference">WWW'24</span></p>
         <p style="font-size:0.85em;margin:0rem;"><strong>Lingxi Zhang</strong>, Jing Zhang, Bohan Zhang,  Cuiping Li, Hong Chen.</p>
         <p style="font-size:0.8em;color:rgba(0,0,0,.6)">
           <i>We fully decouple the logical expression into fine-grained knowledge components to overcome the generalization problem and further reformulate them into middle-grained knowledge pairs for generating executable logical expressions.</i>.
@@ -65,7 +65,7 @@ I am now a master student in Renmin University of China, under the supervision o
     </li>
     <li>
         <p style="font-size:0.9em;margin:0rem;"><strong>Open-World Semi-Supervised Learning on
-Graph. </strong><span style="font-size:0.85em">submitted to</span><span class="conference">WSDM'24</span>[<a href="https://arxiv.org/pdf/2305.08845" target="_blank">paper</a>]</p>
+Graph. </strong><span style="font-size:0.85em">submitted to</span><span class="conference">WSDM'24</span>[<a href="docs/NeurlPS_OpenIMR.pdf" target="_blank">paper</a>]</p>
         <p style="font-size:0.85em;margin:0rem;">Yanling Wang, Jing Zhang, <strong>Lingxi Zhang</strong>,  Lixin Liu, Yuxiao Du, Cuiping Li, Hong Chen, Hongzhi Yin .</p>
         <p style="font-size:0.8em;color:rgba(0,0,0,.6)">
           <i>We theoretically proof the effect of imbalance issue in graph data and propose an approach to narrow the gap between intra-class variances which learns compact representations for seen classes, thus alleviates the negative impact caused by the imbalance issue.</i>.
